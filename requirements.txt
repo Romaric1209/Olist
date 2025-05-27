@@ -14,6 +14,11 @@ tensorflow-cpu
 sweetviz
 autoviz
 tf_keras
+torch
+pytesseract
+sentencepiece
+sacremoses
+dataset
 
 # Jupiter notebook
 jupyter
