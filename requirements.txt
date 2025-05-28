@@ -1,6 +1,6 @@
 # Basics
 ipython
-numpy
+numpy<2.0.0
 pandas
 matplotlib
 seaborn
@@ -18,7 +18,8 @@ torch
 pytesseract
 sentencepiece
 sacremoses
-dataset
+datasets>=2.0.0
+transformers>=4.30.0
 
 # Jupiter notebook
 jupyter
